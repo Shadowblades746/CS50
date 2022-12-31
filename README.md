@@ -1,1 +1,1 @@
-# this repo was made to host my CS50 progress and is solely used for that purpose
+### this repo holds all of the completed problem sets to the CS50P course with my solutions
